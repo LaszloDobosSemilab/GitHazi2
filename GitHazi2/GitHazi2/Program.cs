@@ -14,6 +14,7 @@ namespace GitHazi2
 
         static void A()
         {
+            //asd
         }
 
     }

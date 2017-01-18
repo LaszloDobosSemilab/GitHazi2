@@ -12,6 +12,10 @@ namespace GitHazi2
         {
         }
 
+        static void QMain(string[] args)
+        {
+        }
+
         static void A()
         {
             //asd

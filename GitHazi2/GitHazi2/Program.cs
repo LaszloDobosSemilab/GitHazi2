@@ -11,5 +11,9 @@ namespace GitHazi2
         static void Main(string[] args)
         {
         }
+
+        static void B()
+        {
+        }
     }
 }

@@ -12,5 +12,9 @@ namespace GitHazi2
         {
         }
         static void B() { }
+
+        static void QMain(string[] args)
+        {
+        }
     }
 }
